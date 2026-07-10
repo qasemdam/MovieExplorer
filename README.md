@@ -40,14 +40,6 @@ MovieExplorer is an Android application developed using Java and Android Studio.
 - NotificationHelper
 - Movie Model
 
-## Screenshots
-
-Add screenshots here.
-
-## Demo Video
-
-Add your video link here.
-
 ## Author
 
-Qasem
+Qasem Dam
